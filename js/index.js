@@ -46,6 +46,7 @@ function fizzbuzz(num) {
     return "Buzz";
   } else {
     return num;
+    
   }
 }
 
